@@ -36,7 +36,7 @@ body {
         align-items: center;
 
         padding: 5vh 0.1vw;
-        margin: 0 auto;
+        margin: 4vh auto;
 
         img {
             width: 90px;
@@ -48,12 +48,12 @@ body {
         }
 
         h2 {
-            font-size: small;
+            font-size: medium;
             color: var(--green);
         }
 
         h3 {
-            font-size: medium;
+            font-size: small;
             font-weight: normal;
         }
 
@@ -70,7 +70,7 @@ body {
             text-decoration: none;
 
             padding: calc(var(--section-height) / 4) 0;
-            margin-bottom: 0.25em;
+            margin-bottom: 0.5em;
         }
     }
 
